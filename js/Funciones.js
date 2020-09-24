@@ -1,3 +1,15 @@
+  
+/* 
+    -------------------------------
+        Author : Osvaldo Aquino
+        NickName: Owi
+        FUNCIONES
+    -------------------------------
+*/
+
+
+
+
 // Fimcopmes que actuan como argumentos 
 
 function hola (/*parametros*/ persona )
