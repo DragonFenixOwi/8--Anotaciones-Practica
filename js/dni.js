@@ -1,3 +1,13 @@
+
+/* 
+    ------------------------------------------
+        Author : Osvaldo Aquino
+        NickName: Owi
+        FUNCIÓN Y  PROTOTIPO (CONSTRUCTOR)
+    ------------------------------------------
+*/
+
+
 // letra invariable de referencia para saber la letra de un número DNI
 const Letra_DNI = ["T", "R", "W", "A", "G", "M", "Y", "F", "P", "D", "X",
                     "B", "N", "J", "Z", "S", "Q", "V", "H", "L", "C", "K",
