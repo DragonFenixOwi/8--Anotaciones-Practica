@@ -1,9 +1,9 @@
 # 8-Anotaciones-Practica
 
-# Index.html
+## Index.html
   - "script src" que trae la libreria de *JQuery*
   
-# Carpeta js de JavaScript
+## Carpeta js de JavaScript
   - Asincronismo
       - JQuery 
       - API 
